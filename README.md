@@ -2,12 +2,14 @@ Spotify Data Analysis using SQL
 Project Overview
 This project involves an end-to-end data analysis of a Spotify dataset using SQL. It's designed to be a comprehensive guide to practicing and showcasing advanced SQL skills. The project covers a full workflow, from understanding a denormalized dataset to performing complex queries and, finally, optimizing query performance for efficiency.
 
-The Dataset
+The Dataset: 
 The project utilizes a dataset containing detailed information about popular tracks, including:
 
 Track Details: track, album, artist, and album_type.
 
 Audio Metrics: danceability, energy, loudness, tempo, and other attributes that describe the song's musical characteristics.
+
+Link to Dataset: https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset
 
 Engagement Metrics: views, likes, comments, and stream count, providing insights into audience interaction.
 
